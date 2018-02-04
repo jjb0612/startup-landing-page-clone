@@ -18,3 +18,8 @@ body {
 	border: 1px solid red;
 	height: 20px;
 }
+.different {
+	border: 3px solid blue;
+	height: 20px;
+	width: 70%;
+}
